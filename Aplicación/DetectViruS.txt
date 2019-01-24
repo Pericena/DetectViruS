@@ -1,0 +1,151 @@
+Sigueme en las redes Sociales:
+Blogger          https://lpericena.blogspot.com/
+Github            https://github.com/Pericena
+youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
+pinterest        https://es.pinterest.com/lushiopericena/
+twitter             https://twitter.com/LPericena
+linkedin         https://www.linkedin.com/in/lpericena/
+facebook       https://www.facebook.com/profile.php?id=100009309755063
+pagina facebook  https://www.facebook.com/lpericena
+sitio web        https://pericena.wordpress.com/
+vimeo         https://vimeo.com/lpericena
+instagram      https://www.instagram.com/lpericena/
+remote      https://remote.com/luishinopericena-choque
+google+   https://plus.google.com/u/0/114054031405340478901
+kiwi       https://kiwi.qa/LuishinoC
+App    https://apps.facebook.com/167466933725219
+Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
+teachlr    https://teachlr.com/lpericena
+wikipedia  https://es.wikipedia.org/wiki/Usuario:LuishiB1o_Pericena_Choque
+ask          https://ask.fm/Lpericena
+stackoverflow  https://stackoverflow.com/users/6506592/luishiB1o-pericena-choque
+wix https://lpericena.wixsite.com/curriculumvitae
+
+Conexiones activas
+
+  Proto  Direcci¢n local          Direcci¢n remota        Estado           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       980
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:554            0.0.0.0:0              LISTENING       9824
+  TCP    0.0.0.0:902            0.0.0.0:0              LISTENING       2312
+  TCP    0.0.0.0:912            0.0.0.0:0              LISTENING       2312
+  TCP    0.0.0.0:2869           0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5800           0.0.0.0:0              LISTENING       2424
+  TCP    0.0.0.0:5900           0.0.0.0:0              LISTENING       2424
+  TCP    0.0.0.0:10243          0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:17500          0.0.0.0:0              LISTENING       9912
+  TCP    0.0.0.0:49408          0.0.0.0:0              LISTENING       680
+  TCP    0.0.0.0:49409          0.0.0.0:0              LISTENING       80
+  TCP    0.0.0.0:49410          0.0.0.0:0              LISTENING       748
+  TCP    0.0.0.0:49411          0.0.0.0:0              LISTENING       1524
+  TCP    0.0.0.0:49412          0.0.0.0:0              LISTENING       836
+  TCP    0.0.0.0:49459          0.0.0.0:0              LISTENING       816
+  TCP    0.0.0.0:54455          0.0.0.0:0              LISTENING       6780
+  TCP    127.0.0.1:843          0.0.0.0:0              LISTENING       9912
+  TCP    127.0.0.1:2869         127.0.0.1:55206        TIME_WAIT       0
+  TCP    127.0.0.1:2869         127.0.0.1:55207        TIME_WAIT       0
+  TCP    127.0.0.1:2869         127.0.0.1:55208        TIME_WAIT       0
+  TCP    127.0.0.1:2869         127.0.0.1:55209        TIME_WAIT       0
+  TCP    127.0.0.1:7337         0.0.0.0:0              LISTENING       3068
+  TCP    127.0.0.1:17600        0.0.0.0:0              LISTENING       9912
+  TCP    127.0.0.1:50063        0.0.0.0:0              LISTENING       6780
+  TCP    127.0.0.1:50911        0.0.0.0:0              LISTENING       2412
+  TCP    127.0.0.1:52478        127.0.0.1:52479        ESTABLISHED     9912
+  TCP    127.0.0.1:52479        127.0.0.1:52478        ESTABLISHED     9912
+  TCP    127.0.0.1:52511        127.0.0.1:52512        ESTABLISHED     9912
+  TCP    127.0.0.1:52512        127.0.0.1:52511        ESTABLISHED     9912
+  TCP    127.0.0.1:52852        127.0.0.1:52853        ESTABLISHED     9912
+  TCP    127.0.0.1:52853        127.0.0.1:52852        ESTABLISHED     9912
+  TCP    127.0.0.1:54465        0.0.0.0:0              LISTENING       6780
+  TCP    127.0.0.1:55216        127.0.0.1:5357         TIME_WAIT       0
+  TCP    127.0.0.1:55228        127.0.0.1:5357         TIME_WAIT       0
+  TCP    127.0.0.1:55229        127.0.0.1:5357         TIME_WAIT       0
+  TCP    127.0.0.1:55238        127.0.0.1:5357         TIME_WAIT       0
+  TCP    127.0.0.1:55239        127.0.0.1:5357         TIME_WAIT       0
+  TCP    127.0.0.1:55240        127.0.0.1:5357         TIME_WAIT       0
+  TCP    127.0.0.1:55241        127.0.0.1:5357         TIME_WAIT       0
+  TCP    127.0.0.1:55244        127.0.0.1:5357         TIME_WAIT       0
+  TCP    127.0.0.1:55246        127.0.0.1:5357         TIME_WAIT       0
+  TCP    127.0.0.1:60511        0.0.0.0:0              LISTENING       6780
+  TCP    192.168.0.5:139        0.0.0.0:0              LISTENING       4
+  TCP    192.168.0.5:55213      108.174.11.65:443      FIN_WAIT_1      5936
+  TCP    192.168.0.5:55214      162.125.18.133:443     ESTABLISHED     9912
+  TCP    192.168.0.5:55215      108.174.11.65:443      FIN_WAIT_1      5936
+  TCP    [::]:135               [::]:0                 LISTENING       980
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:554               [::]:0                 LISTENING       9824
+  TCP    [::]:2869              [::]:0                 LISTENING       4
+  TCP    [::]:3587              [::]:0                 LISTENING       4628
+  TCP    [::]:5357              [::]:0                 LISTENING       4
+  TCP    [::]:10243             [::]:0                 LISTENING       4
+  TCP    [::]:17500             [::]:0                 LISTENING       9912
+  TCP    [::]:49408             [::]:0                 LISTENING       680
+  TCP    [::]:49409             [::]:0                 LISTENING       80
+  TCP    [::]:49410             [::]:0                 LISTENING       748
+  TCP    [::]:49411             [::]:0                 LISTENING       1524
+  TCP    [::]:49412             [::]:0                 LISTENING       836
+  TCP    [::]:49459             [::]:0                 LISTENING       816
+  TCP    [::]:54455             [::]:0                 LISTENING       6780
+  TCP    [::1]:7337             [::]:0                 LISTENING       3068
+  TCP    [::1]:55212            [::1]:5357             TIME_WAIT       0
+  TCP    [::1]:55230            [::1]:5357             TIME_WAIT       0
+  TCP    [::1]:55231            [::1]:5357             TIME_WAIT       0
+  TCP    [::1]:55236            [::1]:5357             TIME_WAIT       0
+  TCP    [::1]:55237            [::1]:5357             TIME_WAIT       0
+  TCP    [::1]:55242            [::1]:5357             TIME_WAIT       0
+  TCP    [::1]:55243            [::1]:5357             TIME_WAIT       0
+  TCP    [::1]:55245            [::1]:5357             TIME_WAIT       0
+  TCP    [::1]:55247            [::1]:5357             TIME_WAIT       0
+  TCP    [::1]:55311            [::1]:50505            SYN_SENT        2172
+  UDP    0.0.0.0:500            *:*                                    748
+  UDP    0.0.0.0:3702           *:*                                    1100
+  UDP    0.0.0.0:3702           *:*                                    4328
+  UDP    0.0.0.0:3702           *:*                                    4328
+  UDP    0.0.0.0:3702           *:*                                    460
+  UDP    0.0.0.0:3702           *:*                                    1100
+  UDP    0.0.0.0:3702           *:*                                    460
+  UDP    0.0.0.0:4500           *:*                                    748
+  UDP    0.0.0.0:5004           *:*                                    9824
+  UDP    0.0.0.0:5005           *:*                                    9824
+  UDP    0.0.0.0:5353           *:*                                    5936
+  UDP    0.0.0.0:5353           *:*                                    5936
+  UDP    0.0.0.0:5353           *:*                                    1436
+  UDP    0.0.0.0:5355           *:*                                    1436
+  UDP    0.0.0.0:17500          *:*                                    9912
+  UDP    0.0.0.0:17500          *:*                                    9912
+  UDP    0.0.0.0:17500          *:*                                    9912
+  UDP    0.0.0.0:49408          *:*                                    460
+  UDP    0.0.0.0:55865          *:*                                    1100
+  UDP    0.0.0.0:55867          *:*                                    4328
+  UDP    0.0.0.0:56734          *:*                                    1436
+  UDP    127.0.0.1:1900         *:*                                    460
+  UDP    127.0.0.1:63806        *:*                                    460
+  UDP    192.168.0.5:137        *:*                                    4
+  UDP    192.168.0.5:138        *:*                                    4
+  UDP    192.168.0.5:1900       *:*                                    460
+  UDP    192.168.0.5:63805      *:*                                    460
+  UDP    [::]:500               *:*                                    748
+  UDP    [::]:3540              *:*                                    4628
+  UDP    [::]:3702              *:*                                    4328
+  UDP    [::]:3702              *:*                                    460
+  UDP    [::]:3702              *:*                                    1100
+  UDP    [::]:3702              *:*                                    4328
+  UDP    [::]:3702              *:*                                    460
+  UDP    [::]:3702              *:*                                    1100
+  UDP    [::]:4500              *:*                                    748
+  UDP    [::]:5004              *:*                                    9824
+  UDP    [::]:5005              *:*                                    9824
+  UDP    [::]:5353              *:*                                    5936
+  UDP    [::]:5353              *:*                                    1436
+  UDP    [::]:5355              *:*                                    1436
+  UDP    [::]:49409             *:*                                    460
+  UDP    [::]:55866             *:*                                    1100
+  UDP    [::]:55868             *:*                                    4328
+  UDP    [::]:56734             *:*                                    1436
+  UDP    [::1]:1900             *:*                                    460
+  UDP    [::1]:49410            *:*                                    3068
+  UDP    [::1]:63804            *:*                                    460
+  UDP    [fe80::349d:2341:4145:796f%3]:546  *:*                                    80
+  UDP    [fe80::4018:27ec:b937:546%7]:1900  *:*                                    460
+  UDP    [fe80::4018:27ec:b937:546%7]:63803  *:*                                    460
