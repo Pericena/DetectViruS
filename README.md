@@ -1,18 +1,17 @@
 # DetectViruS
-```
-DetectViruS roba todo lo que es documento de Adobe y las copia a una USB cuando la victima lo ejecute la aplicaciÃ³n.
-```
+¿QUÉ ES UN PUERTO?
+Siempre que alguien me pide que explique qué es un puerto lo hago con un símil: imaginemos una casa; en una casa tenemos puertas y ventanas que solemos tener cerradas si no queremos que se nos cuelen ladrones. Ahora, imaginemos que en los bajos de nuestra casa tenemos una tienda. Necesitaremos, entonces, tener la puerta de la
+calle abierta, para que entre gente y compre. Pues en informática, los puertos serían las ventanas y puertas nuestra casa, es decir, servicios que ofrecemos  y que normalmente utilizamos para comunicarnos, bien internamente (localhost) o bien externamente. En informática localhost, se refiere habitualmente a nuestra propia maquina o sistema, es decir, y aunque suene paradójico, localhost se refiere a la red formado por un solo equipo, el nuestro y es que el Sistema Operativo suele crear puertos que habilitan la comunicación de procesos entre sí exclusivos para nuestro propio equipo
 - MAS INFORMACIÃ“N https://lpericena.blogspot.com/2017/12/detectvirus.html
 
-## Comenzando ðŸš€
+## Comenzando 
 
 _Estas instrucciones te permitirÃ¡n obtener una copia del proyecto en funcionamiento en tu mÃ¡quina local para propÃ³sitos de desarrollo y pruebas._
 https://github.com/Pericena/DetectViruS.git
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-### Pre-requisitos ðŸ“‹
-
+### Pre-requisitos 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
@@ -20,7 +19,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
  - USB 
 ```
 
-### InstalaciÃ³n ðŸ”§
+### Instalación 
 
 ```
 Ejecutar el programa DetectViruS.exe existe varias versiones para windows 7/10
@@ -30,23 +29,23 @@ _Y repite_
 hasta finalizar
 ```
 
-## Ejecutando las pruebas âš™ï¸
+## Ejecutando las pruebas 
 visita la pagina web para que puedas ver el proceso de la instalaciÃ³n y el uso
-https://lpericena.blogspot.com/2017/12/DetectViruS.html
+https://lpericena.blogspot.com/2017/12/detectvirus.html
 
-### Analice las pruebas end-to-end ðŸ”©
+### Analice las pruebas 
 
 ```
 Aclarar que tambien tiene una opcion para que puedan ordenarse los archivos en una carpeta , por extecion
 ```
 
-### Y las pruebas de estilo de codificaciÃ³n âŒ¨ï¸
+### Y las pruebas de estilo de codificación 
 
 ```
 Puede demorar no mas de 2 minutos el escaneo, es un antivirus que puedes llevarlo en un usb , como dirian un software de bolsillo
 ```
 
-## Deployment ðŸ“¦
+## Deployment
 - LICENSE
 - Permisos
 * Uso comercial
@@ -85,30 +84,28 @@ Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mi
 ## Expresiones de Gratitud ðŸŽ
 
 * Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales ðŸ“¢
-Sigueme en las redes Sociales:
-- ðŸŒŽBlogger          https://lpericena.blogspot.com/
-- ðŸ’¡ Github            https://github.com/Pericena
-- ðŸŽ¬ youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
-- ðŸ“¸ pinterest        https://es.pinterest.com/lushiopericena/
-- ðŸ¤ twitter             https://twitter.com/LPericena
-- ðŸ‘¦ linkedin         https://www.linkedin.com/in/lpericena/
-- ðŸ‘ facebook       https://www.facebook.com/profile.php?id=100009309755063
-- ðŸ‘ pagina facebook  https://www.facebook.com/lpericena
-- ðŸŽ® sitio web        https://pericena.wordpress.com/
+- 🌎Blogger          https://lpericena.blogspot.com/
+- 💡 Github            https://github.com/Pericena
+- 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
+- 📸 pinterest        https://es.pinterest.com/lushiopericena/
+- 🐤 twitter             https://twitter.com/LPericena
+- 👦 linkedin         https://www.linkedin.com/in/lpericena/
+- 👍 facebook       https://www.facebook.com/profile.php?id=100009309755063
+- 👍 pagina facebook  https://www.facebook.com/lpericena
+- 🎮 sitio web        https://pericena.wordpress.com/
 - vimeo         https://vimeo.com/lpericena
-- ðŸ“· instagram      https://www.instagram.com/lpericena/
-- ðŸŽ remote      https://remote.com/luishinopericena-choque
-- âš?google+   https://plus.google.com/u/0/114054031405340478901
-- ðŸš€ kiwi       https://kiwi.qa/LuishinoC
-- ðŸ“… App    https://apps.facebook.com/167466933725219
-- ðŸ‘» Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
-- ðŸŽ§ socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
-- ãƒ?teachlr    https://teachlr.com/lpericena
-- ðŸ“–  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
-- ðŸ“§ ask          https://ask.fm/Lpericena
-- ðŸ’» stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
-- ðŸ“¡ wix https://lpericena.wixsite.com/curriculumvitae
-
+- 📷 instagram      https://www.instagram.com/lpericena/
+- 🎁 remote      https://remote.com/luishinopericena-choque
+- ⚛ google+   https://plus.google.com/u/0/114054031405340478901
+- 🚀 kiwi       https://kiwi.qa/LuishinoC
+- 📅 App    https://apps.facebook.com/167466933725219
+- 👻 Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
+- 🎧 socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
+- ツ teachlr    https://teachlr.com/lpericena
+- 📖  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
+- 📧 ask          https://ask.fm/Lpericena
+- 💻 stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
+- 📡 wix https://lpericena.wixsite.com/curriculumvitae
 * Gracias  ðŸ¤“.
 
 ---
