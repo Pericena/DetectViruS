@@ -1,17 +1,17 @@
 # DetectViruS
 ```
-DetectViruS roba todo lo que es documento de Adobe y las copia a una USB cuando la victima lo ejecute la aplicación.
+DetectViruS roba todo lo que es documento de Adobe y las copia a una USB cuando la victima lo ejecute la aplicaciÃ³n.
 ```
-- MAS INFORMACIÓN https://lpericena.blogspot.com/2017/12/DetectViruS.html
+- MAS INFORMACIÃ“N https://lpericena.blogspot.com/2017/12/detectvirus.html
 
-## Comenzando 🚀
+## Comenzando ðŸš€
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Estas instrucciones te permitirÃ¡n obtener una copia del proyecto en funcionamiento en tu mÃ¡quina local para propÃ³sitos de desarrollo y pruebas._
 https://github.com/Pericena/DetectViruS.git
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-### Pre-requisitos 📋
+### Pre-requisitos ðŸ“‹
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
@@ -20,7 +20,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
  - USB 
 ```
 
-### Instalación 🔧
+### InstalaciÃ³n ðŸ”§
 
 ```
 Ejecutar el programa DetectViruS.exe existe varias versiones para windows 7/10
@@ -30,28 +30,28 @@ _Y repite_
 hasta finalizar
 ```
 
-## Ejecutando las pruebas ⚙️
-visita la pagina web para que puedas ver el proceso de la instalación y el uso
+## Ejecutando las pruebas âš™ï¸
+visita la pagina web para que puedas ver el proceso de la instalaciÃ³n y el uso
 https://lpericena.blogspot.com/2017/12/DetectViruS.html
 
-### Analice las pruebas end-to-end 🔩
+### Analice las pruebas end-to-end ðŸ”©
 
 ```
 Aclarar que tambien tiene una opcion para que puedan ordenarse los archivos en una carpeta , por extecion
 ```
 
-### Y las pruebas de estilo de codificación ⌨️
+### Y las pruebas de estilo de codificaciÃ³n âŒ¨ï¸
 
 ```
 Puede demorar no mas de 2 minutos el escaneo, es un antivirus que puedes llevarlo en un usb , como dirian un software de bolsillo
 ```
 
-## Deployment 📦
+## Deployment ðŸ“¦
 - LICENSE
 - Permisos
 * Uso comercial
-* Distribución
-* Modificación
+* DistribuciÃ³n
+* ModificaciÃ³n
 * Uso de patentes
 * Uso privado
 - Condiciones	Limitaciones
@@ -60,56 +60,56 @@ Puede demorar no mas de 2 minutos el escaneo, es un antivirus que puedes llevarl
 *  Misma licencia
 *  Cambios de estado
 *  Responsabilidad
-*  Garantía
+*  GarantÃ­a
 
-## Construido con 🛠�?* [Notepad++](https://notepad-plus-plus.org/download/) - Editor de texto (IDE)
+## Construido con ðŸ› ï¸?* [Notepad++](https://notepad-plus-plus.org/download/) - Editor de texto (IDE)
 
-## Contribuyendo 🖇�?
-Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena/DetectViruS) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+## Contribuyendo ðŸ–‡ï¸?
+Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena/DetectViruS) para detalles de nuestro cÃ³digo de conducta, y el proceso para enviarnos pull requests.
 
-## Versionado 📌
+## Versionado ðŸ“Œ
 
 Usamos [version](https://github.com/Pericena/DetectViruS/blob/master/version.txt) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/Pericena/DetectViruS/tags).
-## Autores ✒️
+## Autores âœ’ï¸
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Luishiño Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
+* **LuishiÃ±o Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/Pericena/DetectViruS/contributors) quíenes han participado en este proyecto. 
+TambiÃ©n puedes mirar la lista de todos los [contribuyentes](https://github.com/Pericena/DetectViruS/contributors) quÃ­enes han participado en este proyecto. 
 
-## Licencia 📄
+## Licencia ðŸ“„
 
-Este proyecto está bajo la Licencia (Licencia pública general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
+## Expresiones de Gratitud ðŸŽ
 
-* Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales 📢
+* Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales ðŸ“¢
 Sigueme en las redes Sociales:
-- 🌎Blogger          https://lpericena.blogspot.com/
-- 💡 Github            https://github.com/Pericena
-- 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
-- 📸 pinterest        https://es.pinterest.com/lushiopericena/
-- 🐤 twitter             https://twitter.com/LPericena
-- 👦 linkedin         https://www.linkedin.com/in/lpericena/
-- 👍 facebook       https://www.facebook.com/profile.php?id=100009309755063
-- 👍 pagina facebook  https://www.facebook.com/lpericena
-- 🎮 sitio web        https://pericena.wordpress.com/
+- ðŸŒŽBlogger          https://lpericena.blogspot.com/
+- ðŸ’¡ Github            https://github.com/Pericena
+- ðŸŽ¬ youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
+- ðŸ“¸ pinterest        https://es.pinterest.com/lushiopericena/
+- ðŸ¤ twitter             https://twitter.com/LPericena
+- ðŸ‘¦ linkedin         https://www.linkedin.com/in/lpericena/
+- ðŸ‘ facebook       https://www.facebook.com/profile.php?id=100009309755063
+- ðŸ‘ pagina facebook  https://www.facebook.com/lpericena
+- ðŸŽ® sitio web        https://pericena.wordpress.com/
 - vimeo         https://vimeo.com/lpericena
-- 📷 instagram      https://www.instagram.com/lpericena/
-- 🎁 remote      https://remote.com/luishinopericena-choque
-- �?google+   https://plus.google.com/u/0/114054031405340478901
-- 🚀 kiwi       https://kiwi.qa/LuishinoC
-- 📅 App    https://apps.facebook.com/167466933725219
-- 👻 Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
-- 🎧 socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
-- �?teachlr    https://teachlr.com/lpericena
-- 📖  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
-- 📧 ask          https://ask.fm/Lpericena
-- 💻 stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
-- 📡 wix https://lpericena.wixsite.com/curriculumvitae
+- ðŸ“· instagram      https://www.instagram.com/lpericena/
+- ðŸŽ remote      https://remote.com/luishinopericena-choque
+- âš?google+   https://plus.google.com/u/0/114054031405340478901
+- ðŸš€ kiwi       https://kiwi.qa/LuishinoC
+- ðŸ“… App    https://apps.facebook.com/167466933725219
+- ðŸ‘» Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
+- ðŸŽ§ socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
+- ãƒ?teachlr    https://teachlr.com/lpericena
+- ðŸ“–  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
+- ðŸ“§ ask          https://ask.fm/Lpericena
+- ðŸ’» stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
+- ðŸ“¡ wix https://lpericena.wixsite.com/curriculumvitae
 
-* Gracias  🤓.
+* Gracias  ðŸ¤“.
 
 ---
-⌨️ Por [Pericena](https://github.com/Pericena) 😊
+âŒ¨ï¸ Por [Pericena](https://github.com/Pericena) ðŸ˜Š
