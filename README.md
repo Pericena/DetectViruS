@@ -4,6 +4,8 @@ Siempre que alguien me pide que explique qué es un puerto lo hago con un símil
 calle abierta, para que entre gente y compre. Pues en informática, los puertos serían las ventanas y puertas nuestra casa, es decir, servicios que ofrecemos  y que normalmente utilizamos para comunicarnos, bien internamente (localhost) o bien externamente. En informática localhost, se refiere habitualmente a nuestra propia maquina o sistema, es decir, y aunque suene paradójico, localhost se refiere a la red formado por un solo equipo, el nuestro y es que el Sistema Operativo suele crear puertos que habilitan la comunicación de procesos entre sí exclusivos para nuestro propio equipo
 - MAS INFORMACIÃ“N https://lpericena.blogspot.com/2017/12/detectvirus.html
 
+![](https://raw.githubusercontent.com/Pericena/DetectViruS/master/imagenes/Screenshot_13.png)
+
 ## Comenzando 
 
 _Estas instrucciones te permitirÃ¡n obtener una copia del proyecto en funcionamiento en tu mÃ¡quina local para propÃ³sitos de desarrollo y pruebas._
